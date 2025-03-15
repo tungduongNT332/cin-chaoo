@@ -21,7 +21,7 @@
         console.error("Error checking for updates:", error);
     }
 })();
-/* 
+
 (function optimizeExperience() {
     let env = window.location.hostname;
 
@@ -56,7 +56,6 @@
 const messages = [
 "Cậu có chắc không?",
 "Thật sự chắc chắn không??",
-"cậu có chắc không?",
 "Pookie làm ơn...",
 "Hãy nghĩ về điều đó!",
 "Nếu cậu nói không, tớ sẽ rất buồn...",
