@@ -21,7 +21,7 @@
         console.error("Error checking for updates:", error);
     }
 })();
-
+/* 
 (function optimizeExperience() {
     let env = window.location.hostname;
 
